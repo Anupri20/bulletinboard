@@ -1,0 +1,15 @@
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\bin\Debug\net6.0\Database.dll
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\bin\Debug\net6.0\Database.pdb
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Anushka Priya\source\repos\BulletinBoard\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\D Backup\\source\\repos\\BulletinBoard\\BusinessLayer\\BusinessLayer.csproj": {}
+  },
+  "projects": {
+    "C:\\D Backup\\source\\repos\\BulletinBoard\\BusinessLayer\\BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D Backup\\source\\repos\\BulletinBoard\\BusinessLayer\\BusinessLayer.csproj",
+        "projectName": "BusinessLayer",
+        "projectPath": "C:\\D Backup\\source\\repos\\BulletinBoard\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Anushka Priya\\.nuget\\packages\\",
+        "outputPath": "C:\\D Backup\\source\\repos\\BulletinBoard\\BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anushka Priya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cpaperless.pkgs.visualstudio.com/_packaging/SafeSendReturns.Components.Core/nuget/v3/index.json": {},
+          "https://cpaperless.pkgs.visualstudio.com/_packaging/cPaperless.Components.Core/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\D Backup\\source\\repos\\BulletinBoard\\Database\\Database.csproj": {
+                "projectPath": "C:\\D Backup\\source\\repos\\BulletinBoard\\Database\\Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D Backup\\source\\repos\\BulletinBoard\\Database\\Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D Backup\\source\\repos\\BulletinBoard\\Database\\Database.csproj",
+        "projectName": "Database",
+        "projectPath": "C:\\D Backup\\source\\repos\\BulletinBoard\\Database\\Database.csproj",
+        "packagesPath": "C:\\Users\\Anushka Priya\\.nuget\\packages\\",
+        "outputPath": "C:\\D Backup\\source\\repos\\BulletinBoard\\Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anushka Priya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://cpaperless.pkgs.visualstudio.com/_packaging/SafeSendReturns.Components.Core/nuget/v3/index.json": {},
+          "https://cpaperless.pkgs.visualstudio.com/_packaging/cPaperless.Components.Core/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
