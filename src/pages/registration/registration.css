@@ -1,0 +1,48 @@
+.registration{
+    background-color: rgb(193, 190, 255);
+    width:100%;
+    min-height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.register-card{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: white;
+    width: 50%;
+    min-height: 400px;
+}
+.register-left{
+    flex: 1;
+    background: url("https://images.pexels.com/photos/4881619/pexels-photo-4881619.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") center;
+    background-size: cover;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    color: white;
+}
+ .register-left>button{
+    color: rebeccapurple;
+} 
+
+.register-right{
+    flex: 1;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+ .register-input>input{
+    border:none;
+    border-bottom: 1px solid lightgray;
+    padding: 20px 10px;
+    gap:20px;
+
+} 

@@ -1,0 +1,27 @@
+.createpost{
+    background-color: rgb(193, 190, 255);
+    width:100%;
+    min-height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.createpostcard{
+    display: flex;
+    background-color: white;
+    width: 50%;
+    min-height: 400px;
+}
+.form{
+    flex: 1;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+}
+.form-group>input{
+    border:none;
+    border-bottom: 1px solid lightgray;
+    padding: 20px 10px;
+    gap:20px;
+
+} 
